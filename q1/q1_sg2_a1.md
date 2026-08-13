@@ -1,3 +1,10 @@
+Section 9-BK
+C#-Names:
+1 - Aguas, Arkin Nicholas M.
+2 - Amador, Tody Grae A.
+3 - Antonio, Matt Nathaniel M.
+
+
 # Main Problem: 
 The canteen's process of selling relies on manual tracking which can be inefficient and unreliable.
 
